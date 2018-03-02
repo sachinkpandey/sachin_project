@@ -15,7 +15,7 @@ public class DaoImpl implements Dao {
 	
 	
 	@Override
-	public void saveDate(ArrayList<PropertyMapping> a) {
+	public void saveDate(ArrayList<PropertyMapping> ab) {
 		
 		
 	}
